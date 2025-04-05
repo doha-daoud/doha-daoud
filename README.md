@@ -7,8 +7,6 @@
 
 - ✨ I’m looking to collaborate on **Open-source AI projects Scalable backend solutions for startups or NGOs**
 
-- 🤝 I’m looking for help with **Real-world AI deployment strategies Transitioning from monolithic to microservices architecture**
-
 - 💬 Ask me about **Full stack development workflows How AI can be integrated into legacy systems**
 
 - 📫 How to reach me **linkedin.com/in/doha-daoud**
