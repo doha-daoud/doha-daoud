@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Doha Daoud</h1>
-<h3 align="center">Junior Full Stack Developer @ Remondis Gruppe | AI Master's Student| Backend Specialist</h3>
+<h3 align="center"> Full Stack Developer @ Remondis Gruppe | AI Master's Student| Data Specialist</h3>
 
 - 🔭 I’m currently working on **AI integration in enterprise systems Building modular and scalable backend services**
 
 - 🌱 I’m currently learning **Advanced AI/ML concepts Scalable cloud architecture and DevOps practices**
+
+-    I can help with Real-world AI deployment strategies Transitioning from monolithic to microservices architecture
 
 - ✨ I’m looking to collaborate on **Open-source AI projects Scalable backend solutions for startups or NGOs**
 
