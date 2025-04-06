@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced AI/ML concepts Scalable cloud architecture and DevOps practices**
 
--    I can help with Real-world AI deployment strategies Transitioning from monolithic to microservices architecture
+- 🤝 I can help with Real-world AI deployment strategies Transitioning from monolithic to microservices architecture
 
 - ✨ I’m looking to collaborate on **Open-source AI projects Scalable backend solutions for startups or NGOs**
 
